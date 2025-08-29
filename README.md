@@ -1,0 +1,2 @@
+# elata-docs
+Elata Documentation
