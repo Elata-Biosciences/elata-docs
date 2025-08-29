@@ -4,7 +4,7 @@ Elata Documentation
 
 1. Install the vocs.dev CLI:
 	```sh
-	npm install -g @vocs/cli
+	npm init vocs
 	```
 2. Create a `vocs.yaml` configuration file in your project root if you don't have one.
 3. Build your documentation:
